@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module cursive.leiningen.project.LeiningenProjectsManager.displayName="trying_out_hugsql:0.1.0-SNAPSHOT" cursive.leiningen.project.LeiningenProjectsManager.isLeinModule="true" type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="false">
+    <output url="file://$MODULE_DIR$/target/base+system+user+dev/classes" />
+    <output-test url="file://$MODULE_DIR$/target/base+system+user+dev/classes" />
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/resources" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/dev-resources" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/test" isTestSource="true" />
+      <excludeFolder url="file://$MODULE_DIR$/target/base+system+user+dev" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" name="Leiningen: clojure-complete:0.2.3" level="project" />
+    <orderEntry type="library" name="Leiningen: com.layerware/hugsql-adapter-clojure-java-jdbc:0.4.0" level="project" />
+    <orderEntry type="library" name="Leiningen: com.layerware/hugsql-adapter:0.4.0" level="project" />
+    <orderEntry type="library" name="Leiningen: com.layerware/hugsql-core:0.4.0" level="project" />
+    <orderEntry type="library" name="Leiningen: com.layerware/hugsql:0.4.0" level="project" />
+    <orderEntry type="library" name="Leiningen: org.clojure/clojure:1.8.0" level="project" />
+    <orderEntry type="library" name="Leiningen: org.clojure/java.jdbc:0.4.2" level="project" />
+    <orderEntry type="library" name="Leiningen: org.clojure/tools.nrepl:0.2.10" level="project" />
+    <orderEntry type="library" name="Leiningen: org.clojure/tools.reader:0.10.0" level="project" />
+    <orderEntry type="library" name="Leiningen: org.xerial/sqlite-jdbc:3.7.2" level="project" />
+  </component>
+</module>
